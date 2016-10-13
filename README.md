@@ -35,4 +35,4 @@ Tested with Python 2.7+ and 3.4+
 ## Notes
 It usually takes a few moments after the app loads to start transmitting data.
 
-You can see streaming results at [138.68.16.188](http://138.68.16.188/). Note that someone will be needing to be running the iOS app in order to see results.
+You can see streaming results at [138.68.16.188](http://138.68.16.188/). Someone will be needing to be running the iOS app in order to see results.
